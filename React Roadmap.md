@@ -1,5 +1,3 @@
----
-
 ### 📊 React High-Level Topics Table
 
 | High-Level Topic         | Subtopics                                                               | Example | Status | Detailed Notes |
